@@ -25,11 +25,11 @@ To run the website locally:
 
 1. Clone this repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/3liiiN/Portfolio_Project
    ```
 2. Navigate to the project directory:
    ```bash
-   cd YOUR_PROJECT_FOLDER
+   cd Portfolio/
    ```
 3. Open `index.html` in your browser.
 
